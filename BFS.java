@@ -43,8 +43,6 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println(SearchingChallenge(new String[]{"01111", "01001", "00011", "11110"})); // 3
-        System.out.println(SearchingChallenge(new String[]{"1011", "0010"})); // 2
+
     }
 }
